@@ -6,10 +6,10 @@
 using namespace std;
  
 // Main() function: where the execution of
-// program begins
+// program begins here
 int main()
 {
-    // Prints hello world
+    // Prints hello world fr
     cout << "Hello World";
  
     return 0;
